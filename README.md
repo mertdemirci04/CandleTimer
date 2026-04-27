@@ -1,4 +1,4 @@
-# 🕯️ CandleTime
+# 🕯️ CandleTimer
 
 A minimalist focus timer app that simulates a burning candle to help you stay concentrated during study or work sessions.
 
